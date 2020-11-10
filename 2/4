@@ -1,0 +1,1 @@
+find ../ -name "*.html" | xargs tar --cre --file=4.tar
